@@ -1,0 +1,10 @@
+Feijao
+6
+Arroz
+6
+Biscoito
+6
+Suco
+2
+Chocolate
+12
